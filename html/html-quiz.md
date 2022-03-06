@@ -1719,7 +1719,7 @@ As Steve Krug once said, happy talk must die.
 
 #### Q109. Which description is coded correctly?
 
-- [ ] A
+- [x] A
 
 ```HTML
 <dl>
@@ -1777,5 +1777,5 @@ As Steve Krug once said, happy talk must die.
 
 - [ ] Nothing is wrong.
 - [ ] `<ul>` cannot contain a heading element as a direct child.
-- [ ] An `<h1>` should be used here instead of an `<h2>` tag.
+- [x] An `<h1>` should be used here instead of an `<h2>` tag.
 - [ ] Only `<ol>` allows direct descendants to contain elements other than an `<li>`, so use an `<ol>` here instead.
